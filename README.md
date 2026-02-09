@@ -1,2 +1,2 @@
-# robogrrl-content-engine
-Upload image → auto-resize for each platform (IG/Twitter/LinkedIn limits) → AI generates SEO descriptions from filename → creates hashtags &amp; alt text → distributes optimized content across social platforms. Perfect for photographers, e-commerce, social managers. Turns one upload into multi-platform ready content! 🚀📸
+# Robogrrl Industries: Content Engine
+Prep your posts for multiple platforms. Upload one image → auto-resize for three platforms (IG/Twitter/LinkedIn limits) → AI generates SEO descriptions from filename → creates hashtags; alt text → distributes optimized content across social platforms. Perfect for photographers, e-commerce, social managers. Turns one upload into multi-platform ready content! 🚀📸
